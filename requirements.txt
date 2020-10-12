@@ -1,3 +1,6 @@
+web3
+jsonrpcserver
+requests
 asn1crypto==1.4.0
 cached-property==1.5.1
 cffi==1.14.2
